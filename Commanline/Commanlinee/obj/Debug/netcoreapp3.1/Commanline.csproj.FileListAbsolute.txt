@@ -1,0 +1,14 @@
+C:\Users\Krittawat\Downloads\CSharp-simple-oop-main\OOP-Simple1\OOP-Simple1\bin\Debug\netcoreapp3.1\Commanline.exe
+C:\Users\Krittawat\Downloads\CSharp-simple-oop-main\OOP-Simple1\OOP-Simple1\bin\Debug\netcoreapp3.1\Commanline.deps.json
+C:\Users\Krittawat\Downloads\CSharp-simple-oop-main\OOP-Simple1\OOP-Simple1\bin\Debug\netcoreapp3.1\Commanline.runtimeconfig.json
+C:\Users\Krittawat\Downloads\CSharp-simple-oop-main\OOP-Simple1\OOP-Simple1\bin\Debug\netcoreapp3.1\Commanline.runtimeconfig.dev.json
+C:\Users\Krittawat\Downloads\CSharp-simple-oop-main\OOP-Simple1\OOP-Simple1\bin\Debug\netcoreapp3.1\Commanline.dll
+C:\Users\Krittawat\Downloads\CSharp-simple-oop-main\OOP-Simple1\OOP-Simple1\bin\Debug\netcoreapp3.1\Commanline.pdb
+C:\Users\Krittawat\Downloads\CSharp-simple-oop-main\OOP-Simple1\OOP-Simple1\obj\Debug\netcoreapp3.1\Commanline.csproj.AssemblyReference.cache
+C:\Users\Krittawat\Downloads\CSharp-simple-oop-main\OOP-Simple1\OOP-Simple1\obj\Debug\netcoreapp3.1\Commanline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krittawat\Downloads\CSharp-simple-oop-main\OOP-Simple1\OOP-Simple1\obj\Debug\netcoreapp3.1\Commanline.AssemblyInfoInputs.cache
+C:\Users\Krittawat\Downloads\CSharp-simple-oop-main\OOP-Simple1\OOP-Simple1\obj\Debug\netcoreapp3.1\Commanline.AssemblyInfo.cs
+C:\Users\Krittawat\Downloads\CSharp-simple-oop-main\OOP-Simple1\OOP-Simple1\obj\Debug\netcoreapp3.1\Commanline.csproj.CoreCompileInputs.cache
+C:\Users\Krittawat\Downloads\CSharp-simple-oop-main\OOP-Simple1\OOP-Simple1\obj\Debug\netcoreapp3.1\Commanline.dll
+C:\Users\Krittawat\Downloads\CSharp-simple-oop-main\OOP-Simple1\OOP-Simple1\obj\Debug\netcoreapp3.1\Commanline.pdb
+C:\Users\Krittawat\Downloads\CSharp-simple-oop-main\OOP-Simple1\OOP-Simple1\obj\Debug\netcoreapp3.1\Commanline.genruntimeconfig.cache
